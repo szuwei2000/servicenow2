@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_919647_szuwei_1.extint_github_globalscript2</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>extint_github_globalscript2</name>
+        <script><![CDATA[var extint_github_globalscript2 = Class.create();
+extint_github_globalscript2.prototype = {
+    initialize: function() {
+    },
+	//hi hello
+    type: 'extint_github_globalscript2'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-09 13:40:40</sys_created_on>
+        <sys_id>0c5fc8271bab99106dd7a9b4bd4bcb02</sys_id>
+        <sys_name>extint_github_globalscript2</sys_name>
+        <sys_package display_value="szuwei_1st_sn" source="x_919647_szuwei_1">e6a78caf1bef59106dd7a9b4bd4bcbcd</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="szuwei_1st_sn">e6a78caf1bef59106dd7a9b4bd4bcbcd</sys_scope>
+        <sys_update_name>sys_script_include_0c5fc8271bab99106dd7a9b4bd4bcb02</sys_update_name>
+    </sys_script_include>
+</record_update>
