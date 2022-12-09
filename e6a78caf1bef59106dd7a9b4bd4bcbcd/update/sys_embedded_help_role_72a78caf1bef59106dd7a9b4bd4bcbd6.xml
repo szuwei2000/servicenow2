@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_919647_szuwei_1.admin" name="x_919647_szuwei_1.admin">b6a78caf1bef59106dd7a9b4bd4bcbd3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-09 13:06:13</sys_created_on>
+        <sys_id>72a78caf1bef59106dd7a9b4bd4bcbd6</sys_id>
+        <sys_name>b6a78caf1bef59106dd7a9b4bd4bcbd3</sys_name>
+        <sys_package display_value="szuwei_1st_sn" source="x_919647_szuwei_1">e6a78caf1bef59106dd7a9b4bd4bcbcd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_1st_sn">e6a78caf1bef59106dd7a9b4bd4bcbcd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_72a78caf1bef59106dd7a9b4bd4bcbd6</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
