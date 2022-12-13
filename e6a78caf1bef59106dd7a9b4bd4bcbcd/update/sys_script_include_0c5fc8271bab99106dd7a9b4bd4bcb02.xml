@@ -11,7 +11,7 @@
 extint_github_globalscript2.prototype = {
     initialize: function() {
     },
-	//hi hello
+	//hi hello PPP
     type: 'extint_github_globalscript2'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
